@@ -15,5 +15,5 @@ pip install bs4
 pip2 install mechanize
 git clone https://github.com/Jibon-Sathi/Jibon-Sathi.git
 cd Jibon-Sathi
-
+python Jibon-Sathi.py
 
