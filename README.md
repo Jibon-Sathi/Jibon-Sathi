@@ -17,3 +17,4 @@ git clone https://github.com/Jibon-Sathi/Jibon-Sathi.git
 cd Jibon-Sathi
 python Jibon-Sathi.py
 
+ls
